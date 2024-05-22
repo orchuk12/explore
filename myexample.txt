@@ -1,0 +1,12 @@
+My first line with the vi editor
+asd
+as
+d
+d
+fg
+
+thsb
+d
+a
+sd
+
